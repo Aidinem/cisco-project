@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cisco-project/static/css/main.c933037e.chunk.css",
+    "main.js": "/cisco-project/static/js/main.2cf23ff3.chunk.js",
+    "main.js.map": "/cisco-project/static/js/main.2cf23ff3.chunk.js.map",
+    "runtime-main.js": "/cisco-project/static/js/runtime-main.127e42a1.js",
+    "runtime-main.js.map": "/cisco-project/static/js/runtime-main.127e42a1.js.map",
+    "static/js/2.8b71bae2.chunk.js": "/cisco-project/static/js/2.8b71bae2.chunk.js",
+    "static/js/2.8b71bae2.chunk.js.map": "/cisco-project/static/js/2.8b71bae2.chunk.js.map",
+    "static/js/3.64724ff6.chunk.js": "/cisco-project/static/js/3.64724ff6.chunk.js",
+    "static/js/3.64724ff6.chunk.js.map": "/cisco-project/static/js/3.64724ff6.chunk.js.map",
+    "index.html": "/cisco-project/index.html",
+    "static/css/main.c933037e.chunk.css.map": "/cisco-project/static/css/main.c933037e.chunk.css.map",
+    "static/js/2.8b71bae2.chunk.js.LICENSE.txt": "/cisco-project/static/js/2.8b71bae2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.127e42a1.js",
+    "static/js/2.8b71bae2.chunk.js",
+    "static/css/main.c933037e.chunk.css",
+    "static/js/main.2cf23ff3.chunk.js"
+  ]
+}
